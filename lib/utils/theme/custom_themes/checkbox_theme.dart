@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 
 /// Custom Class for Light and Dark Text Themes
-class TCheckboxTheme{
-  TCheckboxTheme._();
+class ANBCheckboxTheme{
+  ANBCheckboxTheme._();
 
 
   /// Customizable Light Text Theme

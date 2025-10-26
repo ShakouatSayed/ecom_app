@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 
 /// Light and Dart Elevated Button Themes
-class TElevatedButtonTheme{
-  TElevatedButtonTheme._(); // To avoid creating instances
+class ANBElevatedButtonTheme{
+  ANBElevatedButtonTheme._(); // To avoid creating instances
 
   /// Light Theme
   static final lightElevatedButtonTheme = ElevatedButtonThemeData(
